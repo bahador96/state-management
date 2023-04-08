@@ -1,4 +1,4 @@
-# flutter_application_1
+# getx
 
 A new Flutter project.
 
